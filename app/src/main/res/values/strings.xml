@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVC</string>
+    <string name="mvc_architecture_pattern">MVC Architecture Pattern</string>
+    <string name="count_0">Count:0</string>
+</resources>
